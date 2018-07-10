@@ -6,7 +6,10 @@ button{
     border:0;
     padding: 10px 24px;
 }
-
+.highlight{
+    color:red;
+    font-weight: bold;
+}
 .form{
     background-color: white;
     position: absolute;
