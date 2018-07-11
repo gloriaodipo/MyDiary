@@ -111,9 +111,64 @@ form{
 .bg{
     background-image: url('../img/img14.jpg');
 }
+.entry{
+    background-image: url('../img/img8.png');
+}
+.view{
+    background-image: url('../img/img15.jpg');
+}
+.vw h2{
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+    
+}
+.vw p{
+    margin-left: 2px;
+    font-weight: bold;
+    font-size: medium;
+
 
 .entry{
     background-image: url('../img/img8.png');
+}
+
+/*TABLE*/
+.modify h1{
+    color: white;
+    text-decoration: underline;
+}
+table.style {
+	border: 1px solid #1C6EA4;
+  	background-color: #EEEEEE;
+  	width: 80%;
+  	text-align: left;
+  	border-collapse: collapse;
+  	margin-left: 10%;
+  	margin-bottom: 5px;
+}
+
+table.style td, table.style th {
+	border: 1px solid #AAAAAA;
+  	padding: 3px 2px;
+}
+
+table.style td {
+	font-size: 17px;
+}
+
+table.style tr:nth-child(even) {
+	background: #D0E4F5;
+}
+
+table.style thead {
+	background: #1C6EA4;
+	border-bottom: 2px solid #444444;
+}
+table.style th {
+	font-size: 20px;
+  	font-weight: bold;
+  	color: #FFFFFF;
 }
 
 /*FOOTER*/
@@ -125,4 +180,17 @@ form{
     background-color:rgb(36, 5, 5);
     color: white;
     text-align: center;
+}
+.view{
+    background-image: url('../img/img15.jpg');
+}
+.vw h2{
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline; 
+}
+.vw p{
+    margin-left: 2px;
+    font-weight: bold;
+    font-size: medium;
 }
