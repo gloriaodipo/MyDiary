@@ -71,7 +71,7 @@ header .current a{
 }
 
 a:hover{
-    color:black;
+    color:red;
     font-weight: bold;
 }
 
