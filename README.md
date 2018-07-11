@@ -7,3 +7,5 @@ MyDiary is an online journal where users can pen down their thoughts and feeling
 
 ![Sign up page](signup.png)
 
+
+![Login page screenshot](login.png)
