@@ -143,3 +143,29 @@ form{
     color: white;
     text-align: center;
 }
+
+.view{
+    background-image: url('../img/img15.jpg');
+}
+.vw h2{
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+    
+}
+.vw p{
+    margin-left: 2px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+/*FOOTER*/
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(36, 5, 5);
+    color: white;
+    text-align: center;
+}
