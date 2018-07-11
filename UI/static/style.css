@@ -112,6 +112,10 @@ form{
     background-image: url('../img/img14.jpg');
 }
 
+.entry{
+    background-image: url('../img/img8.png');
+}
+
 /*FOOTER*/
 .footer {
     position: fixed;
