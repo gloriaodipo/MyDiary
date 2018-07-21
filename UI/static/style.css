@@ -62,7 +62,9 @@ header a{
     color:white;
     text-decoration:none;
     text-transform:uppercase;
-    font-size:12px;   
+    font-size:12px;
+    padding-left: 20px;
+    margin-right: 5px;
 }
 
 header .current a{
@@ -164,7 +166,7 @@ table.style th {
     text-align: center;
 }
 .view{
-    background-image: url('../img/img15.jpg');
+    background-image: url('../img/img8.png');
 }
 .vw h2{
     font-style: italic;
